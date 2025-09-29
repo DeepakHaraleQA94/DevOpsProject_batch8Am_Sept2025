@@ -4,9 +4,9 @@ import org.testng.annotations.Test;
 
 public class rohan {
 	@Test
-	public void test()
-	{
-		System.out.println("hello rohan");
-	}
+public void test ()
+{
+		System.out.println("helllo aws");
+}
 
 }
