@@ -7,8 +7,6 @@ public class rohan {
 	public void test()
 	{
 		System.out.println("hello rohan");
-		
-	
 	}
 
 }
