@@ -3,21 +3,16 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="ValidatingPages.VlaidateAboutPage">
-        <methods>
-          <include name="validateAboutPage"/>
-        </methods>
-      </class> <!-- ValidatingPages.VlaidateAboutPage -->
       <class name="ValidatingPages.ValidateHomePage">
         <methods>
           <include name="validateHomePages"/>
         </methods>
       </class> <!-- ValidatingPages.ValidateHomePage -->
-      <class name="ValidatingPages.validateLoginPage">
+      <class name="ValidatingPages.VlaidateAboutPage">
         <methods>
-          <include name="validateLoginPages"/>
+          <include name="validateAboutPage"/>
         </methods>
-      </class> <!-- ValidatingPages.validateLoginPage -->
+      </class> <!-- ValidatingPages.VlaidateAboutPage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

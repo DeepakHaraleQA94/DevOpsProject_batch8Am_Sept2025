@@ -37,7 +37,8 @@ public class ValidateHomePage {
 		Assert.assertEquals(actualTitle, "About Us | Puneri Pattern");
 		System.out.println("Title matched");
 		System.out.println("hello");
-		System.out.println(devopsproject);
+		System.out.println("devopsproject");
+		System.out.println("hello devops");
 	driver.close();
 	
 	}

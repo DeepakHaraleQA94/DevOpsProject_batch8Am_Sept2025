@@ -6,6 +6,8 @@
       <class name="ValidatingPages.ValidateHomePage"/>
       <class name="ValidatingPages.VlaidateAboutPage"/>
       <class name="ValidatingPages.validateLoginPage"/>
+    <class name="ValidatingPages.rohan"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+		

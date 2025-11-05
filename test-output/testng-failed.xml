@@ -8,6 +8,16 @@
           <include name="validateLoginPages"/>
         </methods>
       </class> <!-- ValidatingPages.validateLoginPage -->
+      <class name="ValidatingPages.ValidateHomePage">
+        <methods>
+          <include name="validateHomePages"/>
+        </methods>
+      </class> <!-- ValidatingPages.ValidateHomePage -->
+      <class name="ValidatingPages.VlaidateAboutPage">
+        <methods>
+          <include name="validateAboutPage"/>
+        </methods>
+      </class> <!-- ValidatingPages.VlaidateAboutPage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
